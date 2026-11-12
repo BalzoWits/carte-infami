@@ -552,6 +552,130 @@
     {
       "text": "Questa estate in spiaggia tutti parlano di ___.",
       "pick": 1
+    },
+    {
+      "text": "Il necrologio di mio zio diceva soltanto: «___».",
+      "pick": 1
+    },
+    {
+      "text": "Nel testamento il nonno ha lasciato tutto a ___.",
+      "pick": 1
+    },
+    {
+      "text": "Al mio funerale voglio ___.",
+      "pick": 1
+    },
+    {
+      "text": "Le ultime parole del nonno prima di morire: «___».",
+      "pick": 1
+    },
+    {
+      "text": "Al funerale il prete ha nominato ___ e la vedova è svenuta.",
+      "pick": 1
+    },
+    {
+      "text": "Le ceneri della zia sono finite per sbaglio in ___.",
+      "pick": 1
+    },
+    {
+      "text": "Il medico mi ha dato sei mesi di vita. Li passerò a ___.",
+      "pick": 1
+    },
+    {
+      "text": "Cosa troveranno gli archeologi nel mio hard disk tra mille anni?",
+      "pick": 1
+    },
+    {
+      "text": "Dio esiste, ed è ___.",
+      "pick": 1
+    },
+    {
+      "text": "All'inferno c'è un girone apposta per ___.",
+      "pick": 1
+    },
+    {
+      "text": "Il paradiso ha chiuso per colpa di ___.",
+      "pick": 1
+    },
+    {
+      "text": "Il pranzo di Natale è finito con ___ e ___.",
+      "pick": 2
+    },
+    {
+      "text": "Il mio terapeuta si è licenziato dopo che gli ho raccontato di ___.",
+      "pick": 1
+    },
+    {
+      "text": "Mamma, papà, devo dirvi una cosa: ___.",
+      "pick": 1
+    },
+    {
+      "text": "Nel mio freezer la polizia ha trovato ___.",
+      "pick": 1
+    },
+    {
+      "text": "Sulla scena del crimine il killer ha lasciato ___.",
+      "pick": 1
+    },
+    {
+      "text": "Il mio alibi per la notte del delitto: ___.",
+      "pick": 1
+    },
+    {
+      "text": "La nuova serie true crime di cui parlano tutti racconta ___.",
+      "pick": 1
+    },
+    {
+      "text": "La mia ultima cena prima della sedia elettrica: ___.",
+      "pick": 1
+    },
+    {
+      "text": "Il prete mi ha assolto da tutto, tranne che da ___.",
+      "pick": 1
+    },
+    {
+      "text": "Invece del bambino, la cicogna ha portato ___.",
+      "pick": 1
+    },
+    {
+      "text": "Sulla mia lapide c'è scritto: «Qui giace uno che amava ___».",
+      "pick": 1
+    },
+    {
+      "text": "Durante il sesso mi è scappato di dire «___».",
+      "pick": 1
+    },
+    {
+      "text": "La ricerca più frequente sui siti porno italiani quest'anno: ___.",
+      "pick": 1
+    },
+    {
+      "text": "La casa di riposo ha vietato ___ dopo l'incidente.",
+      "pick": 1
+    },
+    {
+      "text": "Il test di paternità ha rivelato ___.",
+      "pick": 1
+    },
+    {
+      "text": "Il mio corpo dopo i 35 anni, in una parola: ___.",
+      "pick": 1
+    },
+    {
+      "text": "Ho venduto un rene per pagarmi ___.",
+      "pick": 1
+    },
+    {
+      "text": "Il patto con il diavolo prevedeva ___ in cambio di ___.",
+      "pick": 2
+    },
+    {
+      "text": "L'apocalisse zombie è cominciata con ___.",
+      "pick": 1
+    },
+    {
+      "text": "Cosa ha visto il chirurgo prima di svenire in sala operatoria?",
+      "pick": 1
     }
   ],
   "white": [
@@ -1022,6 +1146,101 @@
     "La fatina dei denti con il mutuo",
     "Babbo Natale in cassa integrazione",
     "La Befana su un monopattino",
-    "Un uovo di Pasqua senza sorpresa"
+    "Un uovo di Pasqua senza sorpresa",
+    "Un funerale con open bar",
+    "La vedova allegra",
+    "Un'eredità contesa a coltellate",
+    "Una bara troppo piccola",
+    "Il carro funebre con le casse da discoteca",
+    "Seppellire il criceto in giardino, di nuovo",
+    "La salma del nonno in salotto",
+    "Un'autopsia in diretta streaming",
+    "Un necrologio scritto dall'intelligenza artificiale",
+    "Morire seduto sul water",
+    "Una morte stupidissima e spettacolare",
+    "La lenta e inesorabile decomposizione",
+    "Il nulla cosmico",
+    "L'inutilità di tutto",
+    "La consapevolezza di essere soli nell'universo",
+    "Il vuoto esistenziale della domenica sera",
+    "Un'ansia che ha la sua ansia",
+    "Piangere sotto la doccia",
+    "Mangiare il gelato dalla vaschetta, piangendo",
+    "Un'infanzia da dimenticare",
+    "I traumi infantili mai risolti",
+    "Il giorno in cui papà è uscito a comprare le sigarette",
+    "La delusione negli occhi di mia madre",
+    "Il figlio preferito, che non sono io",
+    "L'inferno",
+    "Satana, ma simpatico",
+    "Un patto col diavolo firmato senza leggere",
+    "Il giudizio universale",
+    "Dio, profondamente deluso",
+    "Gesù che trasforma l'acqua in spritz",
+    "Il quarto Re Magio, quello con la droga",
+    "Un serial killer molto educato",
+    "Un cadavere nel congelatore",
+    "Un piede nel congelatore, senza il resto",
+    "Sciogliere qualcosa nell'acido",
+    "Un alibi di ferro, completamente falso",
+    "Un'arma del delitto a forma di salame",
+    "Un omicidio perfetto rovinato da una storia su Instagram",
+    "Il cannibalismo, ma solo per fame",
+    "Il cibo dell'ospedale",
+    "Una flebo di vino rosso",
+    "Una diagnosi fatta su Google",
+    "Un fegato che chiede pietà",
+    "La cirrosi",
+    "Un rene venduto online",
+    "Il mercato nero degli organi",
+    "La dentiera del nonno nel bicchiere",
+    "Il pannolone",
+    "La badante che eredita tutto",
+    "La casa di riposo",
+    "Un clistere",
+    "La diarrea del viaggiatore",
+    "Una scoreggia bagnata",
+    "Vomitare nel taxi",
+    "Un figlio non desiderato",
+    "La vasectomia",
+    "Il test di paternità",
+    "Il figlio del postino",
+    "Un'orgia nel camper",
+    "Un club di scambisti per pensionati",
+    "Il porno amatoriale dei vicini",
+    "La cronologia del browser",
+    "Un feticismo per i piedi",
+    "Un sex toy finito in lavastoviglie",
+    "Una macchia sospetta sul divano dell'Airbnb",
+    "Il sesso di consolazione",
+    "I gemiti dall'appartamento accanto",
+    "Fingere un orgasmo",
+    "Il licenziamento via email",
+    "Un pignoramento",
+    "La povertà, ma con stile",
+    "Un'evasione dal carcere con un cucchiaino",
+    "Le docce del carcere",
+    "La sedia elettrica",
+    "La ghigliottina",
+    "La peste nera",
+    "La fine del mondo, rimandata a lunedì",
+    "Un'apocalisse zombie",
+    "Il Titanic visto dall'iceberg",
+    "Una pioggia di rane",
+    "Un incendio a casa dei suoceri",
+    "Assicurare la casa e poi darle fuoco",
+    "Il cugino in libertà vigilata",
+    "La fedina penale sporca",
+    "Un'overdose di camomilla",
+    "I funghetti dello zio",
+    "Una sbronza triste",
+    "Il fegato del nonno in un barattolo",
+    "Un esorcista in ferie",
+    "Il vuoto lasciato dal pesce rosso",
+    "Una lapide con un errore di ortografia",
+    "Il becchino che fischietta",
+    "Un'urna cineraria usata come portapenne",
+    "Una seduta spiritica per chiedere il PIN al nonno",
+    "La morte, che finalmente mi richiama"
   ]
 }
