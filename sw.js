@@ -1,5 +1,5 @@
 // Service worker: rete prima, cache solo come riserva (così ogni deploy arriva subito).
-const CACHE = "carte-infami-v2";
+const CACHE = "carte-infami-v3";
 const SHELL = [
   "./", "./index.html", "./css/style.css", "./js/app.js", "./js/game.js",
   "./js/firebase-config.js", "./decks/base.json", "./decks/italia.json","./manifest.webmanifest", "./icons/icon.svg",

@@ -1,66 +1,358 @@
 {
-  "name": "Base italiano",
+  "name": "Carte Infami",
   "black": [
-    { "text": "Il segreto della nonna per un ragù perfetto? ___.", "pick": 1 },
-    { "text": "Nel gruppo WhatsApp del condominio è scoppiata la guerra per colpa di ___.", "pick": 1 },
-    { "text": "Cosa c'è davvero nella vaschetta del gelato in freezer?", "pick": 1 },
-    { "text": "Il mio terapeuta dice che tutti i miei problemi nascono da ___.", "pick": 1 },
-    { "text": "Al pranzo di Natale lo zio ha tirato fuori il discorso su ___.", "pick": 1 },
-    { "text": "Ho lasciato il lavoro per dedicarmi a tempo pieno a ___.", "pick": 1 },
-    { "text": "La nuova serie di cui parlano tutti: ___. Tratta da una storia vera.", "pick": 1 },
-    { "text": "Ricetta per un primo appuntamento disastroso: ___ e ___.", "pick": 2 },
-    { "text": "Prima ___, poi ___. Il classico sabato sera.", "pick": 2 },
-    { "text": "Il Ministero della Salute avverte: ___ nuoce gravemente alla salute.", "pick": 1 },
-    { "text": "Cosa nascondo nella cronologia del browser?", "pick": 1 },
-    { "text": "Il colloquio andava benissimo finché non ho nominato ___.", "pick": 1 },
-    { "text": "Novità all'Ikea: ___, da montare in sole 14 ore.", "pick": 1 },
-    { "text": "Mia madre ha trovato ___ nel cassetto e ora non mi parla più.", "pick": 1 },
-    { "text": "Cosa ha davvero estinto i dinosauri?", "pick": 1 },
-    { "text": "Il prete ha interrotto la messa per colpa di ___.", "pick": 1 },
-    { "text": "Nuovo corso serale in parrocchia: introduzione a ___.", "pick": 1 },
-    { "text": "Il vero motivo per cui il mio ex non mi risponde più: ___.", "pick": 1 },
-    { "text": "Quest'anno a Sanremo ha vinto una canzone su ___.", "pick": 1 },
-    { "text": "In vacanza a Riccione ho scoperto ___.", "pick": 1 },
-    { "text": "La mia autobiografia si intitolerà: «Io, ___ e il dolore».", "pick": 1 },
-    { "text": "Cosa fa il commercialista quando nessuno lo guarda?", "pick": 1 },
-    { "text": "Il nuovo influencer del momento è famoso per ___.", "pick": 1 },
-    { "text": "Secondo il meteo, domani al Nord sono previste piogge di ___.", "pick": 1 },
-    { "text": "La festa è finita quando qualcuno ha tirato fuori ___.", "pick": 1 },
-    { "text": "Ho mentito sul curriculum: alla voce «competenze» ho scritto ___.", "pick": 1 },
-    { "text": "Ultima scoperta della NASA: su Marte c'è ___.", "pick": 1 },
-    { "text": "Cosa non bisogna mai portare a un funerale?", "pick": 1 },
-    { "text": "Vocale di 9 minuti della zia, riassunto: ___.", "pick": 1 },
-    { "text": "Il papa ha pubblicato a sorpresa un post su ___.", "pick": 1 },
-    { "text": "___: il nuovo sport olimpico.", "pick": 1 },
-    { "text": "Il mio superpotere? ___. Purtroppo.", "pick": 1 },
-    { "text": "All'assemblea di condominio si è votato per vietare ___.", "pick": 1 },
-    { "text": "Il segreto di un matrimonio felice: ___ e tanta pazienza.", "pick": 1 },
-    { "text": "Invece della laurea, mio cugino ha preso ___.", "pick": 1 },
-    { "text": "Cosa mi tiene sveglio la notte?", "pick": 1 },
-    { "text": "Mio figlio ha fatto una ricerca su ___ e ora mi chiamano dalla presidenza.", "pick": 1 },
-    { "text": "Il medico ha guardato le analisi e ha sussurrato solo: «___».", "pick": 1 },
-    { "text": "___ + ___ = una domenica dai suoceri.", "pick": 2 },
-    { "text": "Il mio piano per diventare ricco: ___, poi ___.", "pick": 2 },
-    { "text": "Il gruppo del calcetto si è sciolto per colpa di ___.", "pick": 1 },
-    { "text": "Il nuovo gusto di patatine in edizione limitata: ___.", "pick": 1 },
-    { "text": "Cosa ho trovato sotto il divano dopo il trasloco?", "pick": 1 },
-    { "text": "Ultim'ora: il Parlamento approva la legge su ___.", "pick": 1 },
-    { "text": "La parola d'ordine per entrare nella setta è ___.", "pick": 1 },
-    { "text": "La prima cosa che farò se vinco al Superenalotto: ___.", "pick": 1 },
-    { "text": "Ho chiesto all'intelligenza artificiale il senso della vita. Risposta: ___.", "pick": 1 },
-    { "text": "La protezione civile ha diramato l'allerta rossa per ___.", "pick": 1 },
-    { "text": "Nella mia famiglia ___ è un argomento tabù.", "pick": 1 },
-    { "text": "La festa dei 40 anni è degenerata con ___.", "pick": 1 },
-    { "text": "Cosa c'è nel tupperware che mia madre mi dà ogni domenica?", "pick": 1 },
-    { "text": "Nuova emoji approvata: ___.", "pick": 1 },
-    { "text": "Il mio primo pensiero appena sveglio: ___.", "pick": 1 },
-    { "text": "Gita scolastica annullata per colpa di ___.", "pick": 1 },
-    { "text": "Ho trovato l'anima gemella grazie a ___.", "pick": 1 },
-    { "text": "Nel testamento il nonno mi ha lasciato solo ___.", "pick": 1 },
-    { "text": "Il nuovo slogan del Comune: «Vieni per il mare, resta per ___».", "pick": 1 },
-    { "text": "Un vero italiano non rinuncerebbe mai a ___.", "pick": 1 },
-    { "text": "Ho perso l'aereo per colpa di ___ e ___.", "pick": 2 },
-    { "text": "Il karaoke è finito in rissa quando qualcuno ha cantato una canzone su ___.", "pick": 1 }
+    {
+      "text": "Il segreto della nonna per un ragù perfetto? ___.",
+      "pick": 1
+    },
+    {
+      "text": "Nel gruppo WhatsApp del condominio è scoppiata la guerra per colpa di ___.",
+      "pick": 1
+    },
+    {
+      "text": "Cosa c'è davvero nella vaschetta del gelato in freezer?",
+      "pick": 1
+    },
+    {
+      "text": "Il mio terapeuta dice che tutti i miei problemi nascono da ___.",
+      "pick": 1
+    },
+    {
+      "text": "Al pranzo di Natale lo zio ha tirato fuori il discorso su ___.",
+      "pick": 1
+    },
+    {
+      "text": "Ho lasciato il lavoro per dedicarmi a tempo pieno a ___.",
+      "pick": 1
+    },
+    {
+      "text": "La nuova serie di cui parlano tutti: ___. Tratta da una storia vera.",
+      "pick": 1
+    },
+    {
+      "text": "Ricetta per un primo appuntamento disastroso: ___ e ___.",
+      "pick": 2
+    },
+    {
+      "text": "Prima ___, poi ___. Il classico sabato sera.",
+      "pick": 2
+    },
+    {
+      "text": "Il Ministero della Salute avverte: ___ nuoce gravemente alla salute.",
+      "pick": 1
+    },
+    {
+      "text": "Cosa nascondo nella cronologia del browser?",
+      "pick": 1
+    },
+    {
+      "text": "Il colloquio andava benissimo finché non ho nominato ___.",
+      "pick": 1
+    },
+    {
+      "text": "Novità all'Ikea: ___, da montare in sole 14 ore.",
+      "pick": 1
+    },
+    {
+      "text": "Mia madre ha trovato ___ nel cassetto e ora non mi parla più.",
+      "pick": 1
+    },
+    {
+      "text": "Cosa ha davvero estinto i dinosauri?",
+      "pick": 1
+    },
+    {
+      "text": "Il prete ha interrotto la messa per colpa di ___.",
+      "pick": 1
+    },
+    {
+      "text": "Nuovo corso serale in parrocchia: introduzione a ___.",
+      "pick": 1
+    },
+    {
+      "text": "Il vero motivo per cui il mio ex non mi risponde più: ___.",
+      "pick": 1
+    },
+    {
+      "text": "Quest'anno a Sanremo ha vinto una canzone su ___.",
+      "pick": 1
+    },
+    {
+      "text": "In vacanza a Riccione ho scoperto ___.",
+      "pick": 1
+    },
+    {
+      "text": "La mia autobiografia si intitolerà: «Io, ___ e il dolore».",
+      "pick": 1
+    },
+    {
+      "text": "Cosa fa il commercialista quando nessuno lo guarda?",
+      "pick": 1
+    },
+    {
+      "text": "Il nuovo influencer del momento è famoso per ___.",
+      "pick": 1
+    },
+    {
+      "text": "Secondo il meteo, domani al Nord sono previste piogge di ___.",
+      "pick": 1
+    },
+    {
+      "text": "La festa è finita quando qualcuno ha tirato fuori ___.",
+      "pick": 1
+    },
+    {
+      "text": "Ho mentito sul curriculum: alla voce «competenze» ho scritto ___.",
+      "pick": 1
+    },
+    {
+      "text": "Ultima scoperta della NASA: su Marte c'è ___.",
+      "pick": 1
+    },
+    {
+      "text": "Cosa non bisogna mai portare a un funerale?",
+      "pick": 1
+    },
+    {
+      "text": "Vocale di 9 minuti della zia, riassunto: ___.",
+      "pick": 1
+    },
+    {
+      "text": "Il papa ha pubblicato a sorpresa un post su ___.",
+      "pick": 1
+    },
+    {
+      "text": "___: il nuovo sport olimpico.",
+      "pick": 1
+    },
+    {
+      "text": "Il mio superpotere? ___. Purtroppo.",
+      "pick": 1
+    },
+    {
+      "text": "All'assemblea di condominio si è votato per vietare ___.",
+      "pick": 1
+    },
+    {
+      "text": "Il segreto di un matrimonio felice: ___ e tanta pazienza.",
+      "pick": 1
+    },
+    {
+      "text": "Invece della laurea, mio cugino ha preso ___.",
+      "pick": 1
+    },
+    {
+      "text": "Cosa mi tiene sveglio la notte?",
+      "pick": 1
+    },
+    {
+      "text": "Mio figlio ha fatto una ricerca su ___ e ora mi chiamano dalla presidenza.",
+      "pick": 1
+    },
+    {
+      "text": "Il medico ha guardato le analisi e ha sussurrato solo: «___».",
+      "pick": 1
+    },
+    {
+      "text": "___ + ___ = una domenica dai suoceri.",
+      "pick": 2
+    },
+    {
+      "text": "Il mio piano per diventare ricco: ___, poi ___.",
+      "pick": 2
+    },
+    {
+      "text": "Il gruppo del calcetto si è sciolto per colpa di ___.",
+      "pick": 1
+    },
+    {
+      "text": "Il nuovo gusto di patatine in edizione limitata: ___.",
+      "pick": 1
+    },
+    {
+      "text": "Cosa ho trovato sotto il divano dopo il trasloco?",
+      "pick": 1
+    },
+    {
+      "text": "Ultim'ora: il Parlamento approva la legge su ___.",
+      "pick": 1
+    },
+    {
+      "text": "La parola d'ordine per entrare nella setta è ___.",
+      "pick": 1
+    },
+    {
+      "text": "La prima cosa che farò se vinco al Superenalotto: ___.",
+      "pick": 1
+    },
+    {
+      "text": "Ho chiesto all'intelligenza artificiale il senso della vita. Risposta: ___.",
+      "pick": 1
+    },
+    {
+      "text": "La protezione civile ha diramato l'allerta rossa per ___.",
+      "pick": 1
+    },
+    {
+      "text": "Nella mia famiglia ___ è un argomento tabù.",
+      "pick": 1
+    },
+    {
+      "text": "La festa dei 40 anni è degenerata con ___.",
+      "pick": 1
+    },
+    {
+      "text": "Cosa c'è nel tupperware che mia madre mi dà ogni domenica?",
+      "pick": 1
+    },
+    {
+      "text": "Nuova emoji approvata: ___.",
+      "pick": 1
+    },
+    {
+      "text": "Il mio primo pensiero appena sveglio: ___.",
+      "pick": 1
+    },
+    {
+      "text": "Gita scolastica annullata per colpa di ___.",
+      "pick": 1
+    },
+    {
+      "text": "Ho trovato l'anima gemella grazie a ___.",
+      "pick": 1
+    },
+    {
+      "text": "Nel testamento il nonno mi ha lasciato solo ___.",
+      "pick": 1
+    },
+    {
+      "text": "Il nuovo slogan del Comune: «Vieni per il mare, resta per ___».",
+      "pick": 1
+    },
+    {
+      "text": "Un vero italiano non rinuncerebbe mai a ___.",
+      "pick": 1
+    },
+    {
+      "text": "Ho perso l'aereo per colpa di ___ e ___.",
+      "pick": 2
+    },
+    {
+      "text": "Il karaoke è finito in rissa quando qualcuno ha cantato una canzone su ___.",
+      "pick": 1
+    },
+    {
+      "text": "Il nuovo libro del generale Vannacci si intitola: «___».",
+      "pick": 1
+    },
+    {
+      "text": "Ultim'ora: Salvini annuncia che il Ponte sullo Stretto sarà costruito con ___.",
+      "pick": 1
+    },
+    {
+      "text": "«Io sono Giorgia, sono una madre, sono ___».",
+      "pick": 1
+    },
+    {
+      "text": "Il piano segreto di Elly Schlein per vincere le elezioni: ___.",
+      "pick": 1
+    },
+    {
+      "text": "Al prossimo Sanremo l'ospite a sorpresa sarà ___.",
+      "pick": 1
+    },
+    {
+      "text": "Il nuovo pandoro di Chiara Ferragni: ___, e il ricavato va in beneficenza. Forse.",
+      "pick": 1
+    },
+    {
+      "text": "Stasera a Porta a Porta, Bruno Vespa spiega ___ con un plastico.",
+      "pick": 1
+    },
+    {
+      "text": "Alessandro Borghese ha dato 0 punti al ristorante per colpa di ___.",
+      "pick": 1
+    },
+    {
+      "text": "Ridatemi ___ e i Rolex.",
+      "pick": 1
+    },
+    {
+      "text": "Cosa c'è nel nuovo mondo al contrario?",
+      "pick": 1
+    },
+    {
+      "text": "Maria De Filippi: «C'è posta per te». Dentro la busta c'è ___.",
+      "pick": 1
+    },
+    {
+      "text": "Lollobrigida ha fatto fermare il Frecciarossa per ___.",
+      "pick": 1
+    },
+    {
+      "text": "Vittorio Sgarbi in diretta: «Capra! Capra! ___!»",
+      "pick": 1
+    },
+    {
+      "text": "Il nuovo inno della Lega: ___, ___ e ancora ___.",
+      "pick": 3
+    },
+    {
+      "text": "Giuseppe Conte si presenta in pochette davanti a ___.",
+      "pick": 1
+    },
+    {
+      "text": "Il prossimo concorrente del Grande Fratello sarà ___.",
+      "pick": 1
+    },
+    {
+      "text": "Sinner ha saltato la finale per dedicarsi a ___.",
+      "pick": 1
+    },
+    {
+      "text": "Gerry Scotti: «È la tua risposta definitiva?» Io: «___».",
+      "pick": 1
+    },
+    {
+      "text": "Matteo Renzi su un palco a caso: «First reaction: ___».",
+      "pick": 1
+    },
+    {
+      "text": "Gli italiani all'estero si riconoscono subito per ___.",
+      "pick": 1
+    },
+    {
+      "text": "Il primo decreto del nuovo governo: vietare ___.",
+      "pick": 1
+    },
+    {
+      "text": "Fabrizio Corona ha uno scoop esclusivo su ___ e ___.",
+      "pick": 2
+    },
+    {
+      "text": "L'armocromista mi ha detto che sono una stagione ___.",
+      "pick": 1
+    },
+    {
+      "text": "Al Bano e Romina tornano insieme grazie a ___.",
+      "pick": 1
+    },
+    {
+      "text": "Il discorso di fine anno di Mattarella sarà tutto su ___.",
+      "pick": 1
+    },
+    {
+      "text": "Prossimamente su Rai 1: «Don Matteo e il mistero di ___».",
+      "pick": 1
+    },
+    {
+      "text": "Ultima Generazione ha imbrattato ___ con ___.",
+      "pick": 2
+    },
+    {
+      "text": "Nel nuovo cinepanettone, Christian De Sica scopre ___ alle Maldive.",
+      "pick": 1
+    }
   ],
   "white": [
     "Un piccione con ambizioni",
@@ -253,6 +545,94 @@
     "Un mazzo di chiavi di cui non conosco nessuna porta",
     "Un orecchino nell'ombelico",
     "Il vicino che si allena col sassofono",
-    "Una grigliata sul balcone del terzo piano"
+    "Una grigliata sul balcone del terzo piano",
+    "Salvini con la felpa di una forza dell'ordine a caso",
+    "Salvini che mangia nutella in diretta",
+    "Un selfie di Salvini al Papeete",
+    "Il Ponte sullo Stretto, primo pilone previsto nel 2097",
+    "Giorgia Meloni che urla dal palco",
+    "«Io sono Giorgia»",
+    "La fiamma tricolore",
+    "Il generale Vannacci",
+    "Il mondo al contrario",
+    "Una copia autografata del libro di Vannacci",
+    "Elly Schlein dall'armocromista",
+    "Il campo largo",
+    "La pochette di Giuseppe Conte",
+    "Giuseppi",
+    "Matteo Renzi che parla inglese",
+    "Carlo Calenda che litiga su X alle 3 di notte",
+    "Il treno fermato da Lollobrigida",
+    "Vittorio Sgarbi che urla «capra»",
+    "Il discorso di fine anno di Mattarella",
+    "Il plastico di Bruno Vespa",
+    "Il pandoro di Chiara Ferragni",
+    "Le stories di Fedez",
+    "Fabrizio Corona con uno scoop",
+    "Totti che rivuole i Rolex",
+    "Le borse di Ilary",
+    "Jannik Sinner e i suoi capelli rossi",
+    "La residenza a Montecarlo",
+    "Maria De Filippi che dice «Per me è no»",
+    "La busta di C'è posta per te",
+    "Il trono di Uomini e Donne",
+    "Gerry Scotti",
+    "Amadeus che conduce Sanremo per la dodicesima volta",
+    "Il Festival di Sanremo",
+    "Un cantante in tutina di paillettes",
+    "Al Bano e Romina",
+    "Una canzone di Gigi D'Alessio",
+    "Alessandro Borghese che conferma o ribalta",
+    "Cracco che ti guarda male",
+    "Un piatto di Masterchef impiattato con le pinzette",
+    "Don Matteo in bicicletta",
+    "Un cinepanettone con De Sica",
+    "Il Grande Fratello Vip",
+    "Barbara D'Urso con il cuore in mano",
+    "Il materasso di Giorgio Mastrota",
+    "Un televenditore di pentole alle 2 di notte",
+    "La Gialappa's Band",
+    "Il bonus monopattino",
+    "Il reddito di cittadinanza",
+    "Il superbonus 110%",
+    "Una legge elettorale nuova ogni anno",
+    "Un governo tecnico",
+    "Uno sciopero generale di venerdì",
+    "Il condono edilizio",
+    "Lo spread",
+    "Un concertone del primo maggio",
+    "Ultima Generazione con un secchio di vernice",
+    "La Salerno-Reggio Calabria",
+    "Un cantiere aperto dal 1987",
+    "Le code al casello di Ferragosto",
+    "Il Frecciarossa in ritardo di 120 minuti",
+    "La Juventus e le plusvalenze",
+    "Il VAR",
+    "Il fantacalcio del lunedì",
+    "Un commento di Lele Adani",
+    "La Nazionale fuori dai Mondiali, di nuovo",
+    "Valentino Rossi",
+    "Un tormentone estivo con la parola «estate» dentro",
+    "Il cornetto Algida dell'estate",
+    "Il panettone artigianale da 60 euro",
+    "Il pistacchio messo dappertutto",
+    "Una carbonara con la panna, fatta all'estero",
+    "Gli italiani che spiegano la carbonara agli stranieri",
+    "Lo spritz",
+    "Il pranzo della domenica dalla nonna",
+    "Il ciclismo della domenica in tutina",
+    "Il gruppo WhatsApp della classe del figlio",
+    "Un influencer a Dubai",
+    "Un podcast di due ragazzi seduti sul divano",
+    "Il Lotto e il Superenalotto",
+    "Il gratta e vinci comprato con il resto",
+    "Un vocale di Fiorello",
+    "Checco Zalone",
+    "Il Maurizio Costanzo Show",
+    "Il Festivalbar",
+    "Le Iene che ti suonano al citofono",
+    "Striscia la notizia e il Tapiro d'oro",
+    "Un servizio di Report",
+    "Mario Draghi che sorride"
   ]
 }

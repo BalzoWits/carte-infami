@@ -1,10 +1,7 @@
 // Interfaccia: stato locale, rendering delle schermate e gestione dei tocchi.
 import * as G from "./game.js";
 
-const DECKS = [
-  { id: "base", name: "Base italiano", file: "decks/base.json" },
-  { id: "italia", name: "Italia pop", file: "decks/italia.json" },
-];
+const DECKS = [{ id: "base", name: "Carte Infami", file: "decks/base.json" }];
 const MIN_PLAYERS = 3;
 
 const $app = document.getElementById("app");

@@ -61,8 +61,8 @@ Consigliato: in Firebase **Authentication → Impostazioni → Domini autorizzat
 
 ## Mazzi
 
-I mazzi inclusi sono `decks/base.json` (Base italiano) e `decks/italia.json`
-(Italia pop: politica, TV, sport e costume). Altri mazzi si aggiungono:
+Il mazzo incluso è `decks/base.json`: situazioni quotidiane più riferimenti italiani
+(politica, TV, sport e costume). Altri mazzi si aggiungono:
 
 - **dalla lobby**, scrivendo carte una per riga (nelle nere `___` indica lo spazio) — restano
   salvate anche sul tuo telefono per le partite successive;

@@ -57,7 +57,7 @@ export async function createRoom(name) {
   await set(roomRef(code), {
     hostUid: uid,
     createdAt: serverTimestamp(),
-    settings: { winScore: 7, handSize: 10, decks: ["base", "italia"] },
+    settings: { winScore: 7, handSize: 10, decks: ["base"] },
     state: { phase: "lobby", round: 0 },
     players: { [uid]: { name, score: 0, joinedAt: Date.now(), online: true } },
   });
