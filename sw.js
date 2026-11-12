@@ -2,7 +2,7 @@
 const CACHE = "carte-infami-v3";
 const SHELL = [
   "./", "./index.html", "./css/style.css", "./js/app.js", "./js/game.js",
-  "./js/firebase-config.js", "./decks/base.json", "./decks/italia.json","./manifest.webmanifest", "./icons/icon.svg",
+  "./js/firebase-config.js", "./decks/base.json", "./manifest.webmanifest", "./icons/icon.svg",
 ];
 
 self.addEventListener("install", (e) => {
